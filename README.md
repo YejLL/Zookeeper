@@ -1,5 +1,5 @@
 # Project in python: Zoo keeper
-Check out the animals in the zoo!🐶🦁🐼🐻
+Check out the animals's status in the zoo!🐶🦁🐼🐻
 
 ## About
 This short code challenge can help the local zoo look after its denizens. You will create a tool for monitoring animals and their status.
